@@ -1,3 +1,4 @@
-# Veri Bilimi
-Veri Bilimi-3 Ders Notları (İstinye Universitesi)
+# YBS407: Veri Bilimi-3
+YBS407: Veri Bilimi-3 @ İstinye Universitesi (Güz Dönemi)
+
 
