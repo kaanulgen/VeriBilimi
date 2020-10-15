@@ -1,6 +1,3 @@
 # Veri Bilimi
-Veri Bilimi-3 Ders Notları
+Veri Bilimi-3 Ders Notları (İstinye Universitesi)
 
-- NumPy
-
-![](figure/numpy.png)
